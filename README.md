@@ -43,11 +43,9 @@ Hey, I am Jaguar Liu, A full-stack developer who is passionate about programming
 ### :pencil: [Latest blog posts](https://jaguarliu.me/posts)
 
 <!--START_SECTION:blog-posts-->
--   2023-04-29 [DDPP 第五章学习笔记](https://ouuan.moe/post/2023/04/ddpp-5?utm_source=GitHubProfile)
--   2023-03-04 [当你的技术栈与软工交集为空（x](https://ouuan.moe/post/2023/03/thuse?utm_source=GitHubProfile)
--   2023-03-02 [数字逻辑实验到底是数电实验还是数设实验（x](https://ouuan.moe/post/2023/03/digital-logic?utm_source=GitHubProfile)
--   2023-02-09 [一些博客排版优化小 trick](https://ouuan.moe/post/2023/02/typography-tricks?utm_source=GitHubProfile)
--   2023-02-07 [DDPP 第四章学习笔记](https://ouuan.moe/post/2023/01/ddpp-4?utm_source=GitHubProfile)
+-   2023-05-12 [J.A.R.V.I.S智能客服核心 - 理论篇](https://jaguarliu.me/posts/jarvis)
+-   2023-03-04 [被遗忘的Java关键字：transient](https://jaguarliu.me/posts/forgeted-keyword-transient)
+-   2023-03-02 [The reason for the QR code crash](https://jaguarliu.me/posts/reason-for-qr-code-crash)
 <!--END_SECTION:blog-posts-->
 
 ---
