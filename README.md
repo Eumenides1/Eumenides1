@@ -30,7 +30,7 @@ Wish you a good-looking profile README!
 ## Hey, JaguarLiu here! :wave:
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Eumenides1&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Eumenides1&show_icons=true">
 </picture>
 
