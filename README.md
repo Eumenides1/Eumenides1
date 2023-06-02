@@ -31,7 +31,7 @@ Wish you a good-looking profile README!
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Eumenides1&show_icons=true">
 </picture>
 
 Hey, I am Jaguar Liu, A full-stack developer who is passionate about programming and developing some small gadgets. Working at  Tencent.
